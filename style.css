@@ -1,13 +1,11 @@
-body {
-  background-color: lightblue;
-}
-
-h1 {
+.basic {
   color: white;
   text-align: center;
-}
-
-p {
   font-family: verdana;
+}
+.bigfont{
+  font-size: 40px;
+}
+.smallfont{
   font-size: 20px;
 }
